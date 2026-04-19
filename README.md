@@ -30,3 +30,7 @@ Skills Learned
 2. Response & Containment: Incident containment best-practices, isolation and access restriction techniques
 3. Recovery & Continuity: Backup restoration strategies, business continuity and disaster recovery planning
 4. Security Concepts: NIST Incident Response Lifecycle and Cybersecurity Framework, ISO 22301 (Business Continuity Management Systems)
+
+<img width="1000" height="800" alt="IRLchart" src="https://github.com/user-attachments/assets/e30d6af7-a24e-40ea-a242-35c689402d81" />
+
+- This chart illustrates a simulated ransomware incident lifecycle, showing changes in system risk levels across detection, containment, eradication, and recovery phases.
